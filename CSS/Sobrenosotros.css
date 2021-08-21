@@ -1,0 +1,45 @@
+
+
+
+#Hola{
+
+    background-color: rgb(172, 165, 201);
+      width: 1200px;
+      height: 20px;
+      
+    
+      max-width: 1200px;
+      min-width: 600px;
+    
+      max-height: 1200px;
+      min-height: 350px;
+    
+      /* Pading */
+    
+    padding: 50px;
+    padding: 200px, 200px, 200px, 200px; 
+    
+    /* Margin */
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 200px;
+    
+    
+    
+
+    /* Prueba */
+    border-radius: 53px 53px 53px 53px;
+    -moz-border-radius: 53px 53px 53px 53px;
+    -webkit-border-radius: 53px 53px 53px 53px;
+    border: 32px solid #30366d;
+    
+    
+    }
+    
+    
+    #hola p {
+    text-align: justify;
+    
+    }
+
